@@ -2,7 +2,9 @@
 
 🧐 More About Me:
 
-🔭 I’m currently working on .NET, MySql;
+🔭   I’m currently working on .NET, MySql;
+
+🧨   I'm alo know HTML, CSS, JavaScript;
 
 🌱   I’m currently learning Flutter, Android Studio;
 
