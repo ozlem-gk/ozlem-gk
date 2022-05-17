@@ -4,9 +4,9 @@
 
 🔭   I’m currently working on .NET, MySql;
 
-🧨   Ilove HTML, CSS, JavaScript;
+🧨   I love HTML, CSS, JavaScript;
 
-🌱   I’m currently learning Flutter, Android Studio;
+🌱   I’m currently learning Flutter, Android Studio and Java;
 
 💻   I use daily .js, .sql, .aspx, .cs;
 
