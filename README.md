@@ -2,11 +2,11 @@
 
 🧐 More About Me:
 
-🔭   I’m currently working on .NET, MySql;
+🔭   I’m currently working on .NET, MsSql, MySql;
 
 🧨   I love HTML, CSS, JavaScript;
 
-🌱   I’m currently learning Flutter, Android Studio and Java;
+🌱   I’m currently learning Flutter, Android Studio;
 
 💻   I use daily .js, .sql, .aspx, .cs;
 
