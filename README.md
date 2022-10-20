@@ -6,7 +6,7 @@
 
 🧨   I love HTML, CSS, JavaScript;
 
-🌱   I’m currently learning .NET CORE;
+🌱   I’m currently learning .NET CORE and Machine Learning;
 
 💻   I use daily .js, .sql, .aspx, .cs;
 
