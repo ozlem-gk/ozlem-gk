@@ -12,4 +12,3 @@
 
 👨🏻‍💻   Most of my projects are available on Github
 
-My last project website link: http://www.lifecoach.somee.com/
