@@ -3,7 +3,7 @@
 🧐 More About Me:
 
 # 💫 About Me:
-  I’m currently working on .NET, .NET CORE, MVC, MsSql, MySql;<br>I love HTML, CSS, JavaScript; Bootstraps<br> I’m currently learning Flutter;<br> I use daily .js, .sql, .aspx, .cs, .py;<br> Most of my projects are available on Github
+  * I’m currently working on .NET, .NET CORE, MVC, MsSql, MySql;<br>* I love HTML, CSS, JavaScript; Bootstraps<br>* I’m currently learning Flutter;<br>* I use daily .js, .sql, .aspx, .cs, .py;<br>* Most of my projects are available on Github
 
 
 ## 🌐 Socials:
